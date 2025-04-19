@@ -5,7 +5,7 @@
 <i>❝Kod, insanların okuyabilmesi için yazılır, tesadüfen makineler tarafından da çalıştırılabilir.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-Merhaba, Ben [Hakan GÖK](https://hakan-portfolio-blush.vercel.app/), Türkiye'den bir Yazılım Geliştirici 🚀
+Merhaba, Ben [Hakan GÖK](hakangok.tech), Türkiye'den bir Yazılım Geliştirici 🚀
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="320" />
 
