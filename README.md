@@ -162,5 +162,4 @@ My passion lies in creating impactful solutions through modern web and mobile te
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gokhakan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhakan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
