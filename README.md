@@ -161,5 +161,5 @@ My passion lies in creating impactful solutions through modern web and mobile te
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokhakan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hakangokdev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
